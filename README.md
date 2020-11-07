@@ -15,7 +15,9 @@ terminal 1 -> python3 KM.py
 terminal 2 -> python3 B.py
 
 terminal 3 -> python3 A.py
-              ecb          (pentru ecb)
+
+		ecb          (pentru ecb)
 
 terminal 3 -> python3 A.py
-              cfb          (pentru cfb)
+
+		cfb          (pentru cfb)
